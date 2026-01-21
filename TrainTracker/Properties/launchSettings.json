@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TrainTracker (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TrainTracker (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
